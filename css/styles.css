@@ -1,0 +1,38 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sidebar {
+  width: 10%;
+  float: left;
+  background-color: yellow;
+}
+
+.dates {
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+div {
+  float: right;
+  width: 20%;
+  padding-right: 20%;
+}
+
+.size {
+  width:500px;
+}
